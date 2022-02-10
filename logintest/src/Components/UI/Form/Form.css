@@ -1,0 +1,27 @@
+form{
+    padding:0%;
+}
+
+.select_type{
+    width: 15%;
+    padding: 1%;
+    font-weight: bolder;
+    border: .1px solid black;
+    outline: none;
+}
+
+.search_box{
+    padding: 1%;
+    margin: 0 2%;
+    border: solid grey .1px;
+    outline: none;
+    width: 60%;
+}
+
+.search_button{
+    padding: 1%;
+    width: 20%;
+    border-radius: 30px;
+    border:solid grey .1px;
+    font-weight: bolder;
+}

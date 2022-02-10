@@ -1,0 +1,30 @@
+.flex-options{
+    display: flex;
+    width: 45%;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.option{
+    height: 50px;
+    width: 130px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    transition: background-color 1.5s;
+}
+.option:hover{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(105,185,157,1) 90%);
+
+}
+.element{
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 1.5rem;
+    color: black;
+}
+link h2{
+    text-decoration: none;
+}

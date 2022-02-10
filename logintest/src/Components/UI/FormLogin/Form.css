@@ -1,0 +1,56 @@
+.containerF{
+    width: 400px;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs input{
+    border:none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+    font-size: 19px;
+}
+.remember{
+    width: 315px;
+    display: flex;
+    align-items: center;
+}
+.forgot{
+    width: 310px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.forgot a{
+    text-decoration: none;
+    color: rgb(89, 167, 89);
+    font-size: 20px;
+}
+.btn{
+    background-color: rgb(105, 201, 105);
+    border:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    width: 130px;
+    cursor: pointer;
+}
+.validationTextclose{
+    color: rgb(197, 32, 32);
+    display: none;
+}
+.validatioTextOpen{
+    color: rgb(197, 32, 32);
+}

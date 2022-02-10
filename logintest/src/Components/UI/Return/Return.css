@@ -1,0 +1,11 @@
+.containerA{
+    height: 40px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.btnArrow{
+    color: rgb(110, 110, 110);
+    font-size: 45px;
+}

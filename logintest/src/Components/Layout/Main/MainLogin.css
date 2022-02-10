@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(247, 247, 247);
+}
+.allinfo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.Components{
+    padding-left: 5px;
+    background-color: rgb(228, 235, 241);
+    height: 500px;
+}
+
+.img{
+    height: 500px;
+    width: 500px;
+    background-image: url("https://th.bing.com/th/id/R.a308464a15d3c99972a4faae2a5ecbf8?rik=6vzFy3Lv2ufzEw&riu=http%3a%2f%2fwww.gratistodo.com%2fwp-content%2fuploads%2f2017%2f02%2fCasas-Modernas-7.jpg&ehk=iphc1OgOYVQ6qLITZHpjZmZnNLMN0M4JmHzfIsx733o%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

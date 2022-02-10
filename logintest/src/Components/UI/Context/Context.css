@@ -1,0 +1,10 @@
+.Context-text{
+    width: 100%;
+}
+
+.text{
+    padding: 2% 0;
+    width: 80%;
+    font-weight: lighter;
+    line-height: 150%;
+}

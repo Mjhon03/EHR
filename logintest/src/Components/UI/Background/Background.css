@@ -1,0 +1,8 @@
+.background-container{
+    display: flex;
+justify-content: center;
+}
+
+.background{
+    width: 80%;
+}
